@@ -17,4 +17,5 @@ This project is a **Virtual Paint App** that uses **Hand Tracking** to allow use
 - OpenCV 🎥
 - MediaPipe ✋
 - NumPy 🔢
-![Uploading Screenshot (32).png…]()
+
+![Screenshot (32)](https://github.com/user-attachments/assets/7513fb71-945a-4fe5-b592-75bd840d1dc5)
